@@ -29,6 +29,11 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/irf4n?theme=nord&font=Noto%20Sans%20Display)
 
+## 📊 GitHub Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=irf4n8&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
  **<h3 align="center">Skills</h3>**
 
