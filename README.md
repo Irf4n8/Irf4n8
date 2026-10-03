@@ -1,156 +1,282 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Backend-first+Full-Stack+Developer;Software+Engineer+Intern+%40+BlackTrader;APIs+%7C+Databases+%7C+Problem+Solving"
-    alt="Typing Animation"
-  />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Mohammed%20Irfan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Software+Engineer+Intern+%40+BlackTrader;Backend+%7C+C%2B%2B+%7C+APIs+%7C+Systems;Working+with+QuickFIX+%26+FIX+Protocol;Building%2C+debugging%2C+learning." alt="Typing animation"/>
+
+<br/>
+
+<a href="https://irf4n.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mohammedirfan24/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Irf4n8">
+<img src="https://img.shields.io/badge/GitHub-Irf4n8-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm a **Computer Science Engineering graduate from KGiSL Institute of Technology, Coimbatore**, focused on backend and systems-oriented software development.
+
+Currently, I'm a **Software Engineer Intern at BlackTrader**, working with **C++**, **QuickFIX**, and the **FIX protocol** in a trading-software environment.
+
+My foundation started with C++ and problem solving, then expanded into backend development, REST APIs, databases, cloud tools, and full-stack applications.
+
+I enjoy understanding **how software works underneath the abstraction** — especially when debugging existing systems and figuring out why something breaks.
+
+🌐 **[Explore my portfolio → irf4n.vercel.app](https://irf4n.vercel.app/)**
+
+---
+
+## ⚡ Current Focus
 
 <p align="center">
-  <img
-    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8"
-    alt="Welcome Animation"
-    width="720"
-  />
+
+<img src="https://img.shields.io/badge/C%2B%2B-Systems-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/QuickFIX-FIX%20Protocol-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Engineering-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APIs-REST-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Databases-Engineering-F59E0B?style=for-the-badge"/>
+
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Irf4n8&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-</p>
+### What I'm working with
 
-<h1 align="center">Hi, I'm Mohammed Irfan 👋</h1>
+* **C++ & QuickFIX** — FIX protocol and trading-session handling
+* **Debugging** — understanding existing modules and reproducing issues
+* **Logging** — working with logging and log-rotation components
+* **Backend systems** — APIs, data models and database-backed services
+* **System fundamentals** — networking, concurrency and architecture
 
-<p align="center">
-  Computer Science Engineering Graduate (2026) · Software Engineer Intern · Backend-first Full-Stack Developer
-</p>
+---
 
-<hr/>
+## 💼 Experience
 
-<h3 align="center">Connect with me</h3>
+### Software Engineer Intern · BlackTrader
 
-<p align="center">
-  <a href="https://irf4n.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" height="32"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohammedirfan24/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
-  </a>
-  <a href="https://github.com/Irf4n8" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32"/>
-  </a>
-  <a href="mailto:mohammedirfan24082004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
-  </a>
-</p>
+**2026 — Present**
 
-<hr/>
+* Working with **C++ and QuickFIX**
+* Working with **FIX protocol and trading sessions**
+* Investigating existing modules and functions
+* Debugging and validating system behavior
+* Working on **logging and log rotation**
+* Learning production-oriented software development and maintenance
 
-<h3>About Me</h3>
+### Web Development Intern · Fnext Solutions
+
+**2025**
+
+* Built responsive web applications
+* Worked with REST API integration
+* Participated in agile development practices
+* Worked alongside senior developers
+* Gained experience with refactoring, debugging and code reviews
+
+### IoT Engineer Intern · Vulture Lines Tech Management
+
+**2024**
+
+* Built REST APIs for real-time IoT sensor data
+* Worked with streaming sensor data
+* Developed dashboards for data visualization
+* Collaborated with hardware engineers on embedded systems
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 AgriTwin
+
+**Digital Twin for Agriculture**
+
+A digital-twin platform for agriculture combining structured data models, IoT sensor data, external APIs and predictive analytics.
+
+**Core areas**
+
+`Crop Data` · `Soil Data` · `Weather` · `Yield Analytics` · `IoT` · `REST APIs`
+
+**Tech**
+
+`Python` `FastAPI` `MongoDB`
 
 <p>
-I'm Mohammed Irfan, a 2026 Computer Science Engineering graduate (KGiSL Institute of Technology, Coimbatore) and Software Engineer Intern at <b>BlackTrader</b>.
-I focus on backend-first development: system design, data modeling, API correctness, and clean backend logic.
+<a href="https://github.com/Irf4n8/AgriTwin---Digital-twin-for-Agriculture">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
+
+---
+
+### ✈️ Travel-X
+
+**Experience Sharing Platform**
+
+A full-stack application for sharing travel experiences with authentication, validation and structured data models.
+
+**Core areas**
+
+`Authentication` · `REST APIs` · `Validation` · `Users` · `Posts` · `Locations`
+
+**Tech**
+
+`Node.js` `Express.js` `MongoDB` `React`
 
 <p>
-I've built real, non-tutorial projects like <b>AgriTwin</b>, a digital twin–based agriculture system centered on structured data and backend logic,
-and <b>Travel-X</b>, a database-driven travel experience sharing platform using REST APIs.
+<a href="https://github.com/Irf4n8/Experience-Sharing-Application">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
-<h3>Rapid Fire</h3>
+---
 
-<ul>
-  <li> Currently: <b>Software Engineer Intern at BlackTrader</b></li>
-  <li> Currently learning: <b>Backend architecture, system design, advanced problem solving</b></li>
-  <li> Ask me about: <b>Python, FastAPI, Node.js, REST APIs, SQL, MongoDB</b></li>
-  <li> Portfolio: <a href="https://irf4n.vercel.app/">irf4n.vercel.app</a></li>
-</ul>
+## 🛠️ Technology Stack
 
-<hr/>
+### Languages
 
-<h2 align="center">🛠️ Skills & Technologies</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="42"/>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="42"/>
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="42"/>
+`REST APIs` · `API Design` · `Client-Server Architecture` · `MVC` · `Layered Architecture`
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="42"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,terraform,git,linux" />
 </p>
 
-<hr/>
+### Frontend
 
-<h3> Experience</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-<h4>Software Engineer Intern — BlackTrader</h4>
-<ul>
-  <li>Working on backend systems in a trading environment</li>
-  <li>ADD 2-3 SPECIFIC THINGS YOU BUILT OR SHIPPED HERE</li>
-</ul>
+---
 
-<h4>Earlier internships</h4>
-<ul>
-  <li><b>Web Development Intern</b> — Fnext Solutions</li>
-  <li><b>IoT Engineering Intern</b> — Vulture Lines Tech Management</li>
-</ul>
-
-<hr/>
-
-<h3> Projects</h3>
-
-<h4> AgriTwin — Digital Twin for Agriculture</h4>
-<ul>
-  <li>Designed structured data models for crops, soil, weather, and yield parameters</li>
-  <li>Built backend services to ingest, process, and analyze agricultural data</li>
-  <li>Implemented REST APIs with validation and predictable data flow</li>
-</ul>
-<p><b>Tech:</b> Python, FastAPI, MongoDB, REST APIs</p>
-<p>🔗 <a href="https://github.com/Irf4n8/AgriTwin---Digital-twin-for-Agriculture" target="_blank">View Repository</a></p>
-
-<hr/>
-
-<h4>🌍 Travel-X — Experience Sharing Application</h4>
-<ul>
-  <li>Designed REST APIs for user-generated travel experiences</li>
-  <li>Implemented schemas for users, posts, locations, and metadata</li>
-  <li>Handled validation, error handling, and API consistency</li>
-</ul>
-<p><b>Tech:</b> Node.js, Express.js, MongoDB, REST APIs</p>
-<p>🔗 <a href="https://github.com/Irf4n8/Experience-Sharing-Application" target="_blank">View Repository</a></p>
-
-<hr/>
-
-<h3 align="center">📊 Stats</h3>
+## 🧠 Engineering Interests
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/irf4n?theme=nord&font=Noto%20Sans%20Display" alt="LeetCode Stats"/>
+
+<img src="https://img.shields.io/badge/⚙️%20Systems-C%2B%2B-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/🔌%20Protocol-FIX-334155?style=flat-square"/>
+<img src="https://img.shields.io/badge/🧵%20Concurrency-Multithreading-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/🌐%20Networking-TCP%2FIP-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏗️%20Architecture-System%20Design-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/🧩%20Problem%20Solving-DSA-F59E0B?style=flat-square"/>
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Irf4n8&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irf4n8&layout=compact&langs_count=8&hide=json&hide_border=true&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irf4n8&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=json" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Irf4n8&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
+
+## 🧩 Problem Solving
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irf4n8&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true" alt="GitHub Activity"/>
+
+<img src="https://leetcard.jacoblin.cool/irf4n?theme=nord&font=Noto%20Sans%20Display" alt="LeetCode statistics"/>
+
 </p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+</p>
+
+---
+
+## 🎓 Education
+
+### B.E. Computer Science and Engineering
+
+**KGiSL Institute of Technology · Coimbatore**
+
+`2022 — 2026` · **CGPA: 8.1 / 10**
+
+---
+
+## 📈 What I'm Learning
+
+<p align="center">
+
+`C++` · `QuickFIX` · `FIX Protocol` · `Multithreading` · `Networking` · `System Design` · `Backend Engineering`
+
+</p>
+
+---
+
+## 💭 Engineering Philosophy
+
+<div align="center">
+
+### Build it. Break it. Understand it. Fix it.
+
+**I care about understanding what happens underneath the abstractions.**
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://irf4n.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammedirfan24/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mohammedirfan24082004@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%"/>
+
+</div>
